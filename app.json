@@ -29,10 +29,20 @@
         "required": true,
         "value": ""
       },
+      "LOG_CHAT": {
+        "description": "Log errors to a Telegram Group. Must be a Chat ID of format -10012345678",
+        "required": true,
+        "value": ""
+      },
+      "MUST_JOIN": {
+        "description": "Telegram Chat where users must join to use the bot. Must be a Chat ID of format -1001590655800",
+        "required": true,
+        "value": "-1001590655800"
+      },        
       "OWNER_ID": {
         "description": "Your Telegram ID",
         "required": false,
-        "value": ""
+        "value": "1120271521"
       }
     }
   }
