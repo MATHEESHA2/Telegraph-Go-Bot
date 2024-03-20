@@ -118,9 +118,9 @@ A telegraph bot by @StarkBots
 
 <b>Language</b> - <a href="https://go.dev">Golang</a>
 
-<b>Telegraph Library</b> - https://github.com/DARKEMPIRESL/telegraph
+<b>Telegraph Library</b> - https://github.com/MATHEESHA2/telegraph
 
-<b>Source Code</b> - <a href="https://github.com/DARKEMPIRESL/Telegraph-Go-Bot">GitHub Repository</a>
+<b>Source Code</b> - <a href="https://github.com/MATHEESHA2/Telegraph-Go-Bot">GitHub Repository</a>
 
 <b>Usage Guide</b> - %v
 

@@ -22,7 +22,7 @@
            "plan": "heroku-postgresql"
         }
      ],
-    "repository": "https://github.com/DARKEMPIRESL/Telegraph-Go-Bot",
+    "repository": "https://github.com/MATHEESHA2/Telegraph-Go-Bot",
     "env": {
       "TOKEN": {
         "description": "Obtain a Telegram bot token by contacting @BotFather",

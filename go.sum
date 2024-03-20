@@ -1,7 +1,7 @@
 github.com/PaulSonOfLars/gotgbot/v2 v2.0.0-rc.6 h1:MoFt/Ff7+IX9Qq/w67xHV3UFSyhbctjHhd/pq+ujQr0=
 github.com/PaulSonOfLars/gotgbot/v2 v2.0.0-rc.6/go.mod h1:r815fYWTudnU9JhtsJAxUtuV7QrSgKpChJkfTSMFpfg=
-github.com/DARKEMPIRESL/telegraph/v2 v2.0.0 h1:TvQxwE2QXT3BcFE8SVDy46ibz8c+t1gXjAq5uCFKtjA=
-github.com/DARKEMPIRESL/telegraph/v2 v2.0.0/go.mod h1:l0W+gNxeRdh11dN85VyPvN5c3onGnwAvxO9N5KWDwAE=
+github.com/MATHEESHA2/telegraph/v2 v2.0.0 h1:TvQxwE2QXT3BcFE8SVDy46ibz8c+t1gXjAq5uCFKtjA=
+github.com/MATHEESHA2/telegraph/v2 v2.0.0/go.mod h1:l0W+gNxeRdh11dN85VyPvN5c3onGnwAvxO9N5KWDwAE=
 github.com/anaskhan96/soup v1.2.5 h1:V/FHiusdTrPrdF4iA1YkVxsOpdNcgvqT1hG+YtcZ5hM=
 github.com/anaskhan96/soup v1.2.5/go.mod h1:6YnEp9A2yywlYdM4EgDz9NEHclocMepEtku7wg6Cq3s=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

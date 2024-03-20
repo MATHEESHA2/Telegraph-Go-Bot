@@ -10,7 +10,7 @@ import (
 
 	"github.com/PaulSonOfLars/gotgbot/v2"
 	"github.com/PaulSonOfLars/gotgbot/v2/ext"
-	"github.com/DARKEMPIRESL/telegraph/v2"
+	"github.com/MATHEESHA2/telegraph/v2"
 )
 
 var parseIntFail = "Could not parse %v var. Please check if it's a valid Integer and a valid Chat ID \n"

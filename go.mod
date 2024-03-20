@@ -5,7 +5,7 @@ go 1.17
 
 require (
 	github.com/PaulSonOfLars/gotgbot/v2 v2.0.0-rc.6
-	github.com/DARKEMPIRESL/telegraph/v2 v2.0.0
+	github.com/MATHEESHA2/telegraph/v2 v2.0.0
 	github.com/joho/godotenv v1.4.0
 	github.com/uptrace/bun v1.0.22
 	github.com/uptrace/bun/dialect/pgdialect v1.0.22

@@ -1,6 +1,6 @@
 ## [Telegraph Go Bot](https://t.me/darks_telegraph_bot)
 
-<p align="center"><a href="https://www.github.com/DARKEMPIRESL/Telegra.ph-Uploader"><img src="https://te.legra.ph/file/1395fa7ced5043e3a3dcf.jpg" width="5000"></a></p>
+<p align="center"><a href="https://www.github.com/MATHEESHA2/Telegra.ph-Uploader"><img src="https://te.legra.ph/file/1395fa7ced5043e3a3dcf.jpg" width="5000"></a></p>
 
 
 > A star ⭐ from you means a lot to me !
@@ -19,7 +19,7 @@ A detailed usage guide can be found here : [Telegraph Page](https://telegra.ph/T
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARKEMPIRESL/Telegraph-Go-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MATHEESHA2/Telegraph-Go-Bot)
 
 1. Tap on above button and fill `TOKEN`.
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -31,7 +31,7 @@ A detailed usage guide can be found here : [Telegraph Page](https://telegra.ph/T
 1. Clone the repo
 
    ```markdown
-   git clone https://github.com/DARKEMPIRESL/Telegraph-Go-Bot
+   git clone https://github.com/MATHEESHA2/Telegraph-Go-Bot
    ```
 
 2. Rename `.env.sample` to `.env` and fill values
@@ -64,7 +64,7 @@ A detailed usage guide can be found here : [Telegraph Page](https://telegra.ph/T
 ## Credits
 
 - [Paul Larsen](https://github.com/PaulSonOfLars) for his [gotgbot](https://github.com/PaulSonOfLars/gotgbot) Library
-- [I wanna thank me](https://www.google.com/search?q=i+wanna+thank+me), for my [Telegraph Library](https://github.com/DARKEMPIRESL/telegraph)
+- [I wanna thank me](https://www.google.com/search?q=i+wanna+thank+me), for my [Telegraph Library](https://github.com/MATHEESHA2/telegraph)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 

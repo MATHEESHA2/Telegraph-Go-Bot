@@ -6,7 +6,7 @@ import (
 
 	"github.com/PaulSonOfLars/gotgbot/v2"
 	"github.com/PaulSonOfLars/gotgbot/v2/ext"
-	"github.com/DARKEMPIRESL/telegraph/v2"
+	"github.com/MATHEESHA2/telegraph/v2"
 )
 
 func editPage(b *gotgbot.Bot, ctx *ext.Context) error {
